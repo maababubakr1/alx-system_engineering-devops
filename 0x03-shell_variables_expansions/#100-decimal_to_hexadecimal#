@@ -1,3 +1,2 @@
 #!/bin/bash
-echo -n "16> " $DECIMAL
-x
+printf "%x/n" $DECIMAL
